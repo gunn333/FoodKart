@@ -12,8 +12,7 @@ DEMO SCREENSHOTS:
 
 ![Screenshot 2023-09-14 220905](https://github.com/gunn333/FoodKart/assets/122155330/a2380899-34bd-4a47-b35d-6fa20d3c01ce)
 
-Contact:
-                                    If you want to contact with me you can reach me at Instagram : gunn.arora23496
+Contact:                                                                                                                                                                                                              If you want to contact with me you can reach me at Instagram : gunn.arora23496
 
 
 
