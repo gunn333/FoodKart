@@ -5,6 +5,7 @@ FoodKart is a website of a restaurant for online food delivery and many other se
 
 DEMO:
 
+https://gunn333.github.io/FoodKart/
 
 
 DEMO SCREENSHOTS:
